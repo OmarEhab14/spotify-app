@@ -161,7 +161,7 @@ class _SignupPageState extends State<SignupPage> {
       ),
     );
   }
-
+//returns the fullname text field
   Widget _fullNameField() {
     return const TextField(
       decoration: InputDecoration(
